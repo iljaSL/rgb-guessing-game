@@ -1,1 +1,5 @@
-# JavaScriptProject's
+My first small JavaScript application, an RGB guessing game.
+<br>
+Built with HTML, CSS and JS. With the guidance from the great Full Stack course of <a href="https://github.com/Colt">Colt Steele</a>.
+<br>
+Check it out here! ------>  https://iljasl.github.io/rgb-guessing-game/
