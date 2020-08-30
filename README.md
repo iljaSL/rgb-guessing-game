@@ -1,5 +1,5 @@
-My first small JavaScript application, an RGB guessing game.
+<h4>My first small JavaScript application, an RGB guessing game.</h4>
 <br>
-Built with HTML, CSS and JS. With the guidance from the great Full Stack course of <a href="https://github.com/Colt">Colt Steele</a>.
+<h5>Built with HTML, CSS and JS. With the guidance from the great Full Stack course of <a href="https://github.com/Colt">Colt Steele</a>.</h5>
 <br>
-Check it out here! ------>  https://iljasl.github.io/rgb-guessing-game/
+Check it out! ------>  https://iljasl.github.io/rgb-guessing-game/
