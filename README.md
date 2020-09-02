@@ -2,4 +2,4 @@
 <br>
 <h5>Built with HTML, CSS and JS. With the guidance from the great Full Stack course of <a href="https://github.com/Colt">Colt Steele</a>.</h5>
 <br>
-Check it out! ------>  https://iljasl.github.io/rgb-guessing-game/
+<strong>Check it out! ------>  https://iljasl.github.io/rgb-guessing-game/ </strong>
